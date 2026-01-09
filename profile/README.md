@@ -2,6 +2,7 @@
 
 This is the rustnn project, organized into several repositories:
 
+- rustnn-workspace : contains all repositories as sub repos, to work in a single, agentic-friendly space
 - rustnn : main project, Rust implementation of WebNN with a Python front-end
 - webnn-onnx-utils : shared ONNX <-> WebNN conversion utilities
 - webnn-graph : A WebNN DSL to serialized/deserialize WebNN graphs
